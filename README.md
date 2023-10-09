@@ -1,9 +1,16 @@
-# 💫 About Me:
-🔭 Problem Solver<br>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" height="400">
-</div>
+# 👋 About Me
+
+Hey there! I'm Sagar Verma, a passionate problem solver with a love for all things tech and a penchant for creative design. I thrive on tackling complex challenges and turning ideas into reality.
+
+🌍 I'm always up for a new adventure, whether it's exploring the latest technology trends or embarking on coding journeys.
+
+🚀 Join me as I navigate the ever-evolving tech universe, one line of code at a time.
+
+Let's create, innovate, and make the digital world a more exciting place together!
+
+
+
 
 
 
@@ -13,12 +20,15 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/sagarv19171)
 [![LeetCode](https://img.shields.io/badge/Gmail-%23eb5c1e.svg?logo=gmail&logoColor=white)](mail.to:sagarv19171@gmail.com)
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" height="400">
+</div>
 
 <!-- In your GitHub profile README -->
 
 <!-- In your GitHub profile README -->
 
-# 🌈 Colorful Tech Stack
+# Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=blue)
@@ -68,14 +78,17 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sagarverma2602&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sagarverma2602&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarverma2602&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sagarverma2602&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sagarverma2602&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarverma2602&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sagarverma2602&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=sagarverma2602&style=plastic&label=Profile+Views&color=blueviolet)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
