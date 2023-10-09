@@ -1,7 +1,11 @@
 # 💫 About Me:
 🔭 Problem Solver<br>
 
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" height="400">
+</div>
+
+
 
 
 ## 🌐 Socials:
