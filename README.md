@@ -84,7 +84,11 @@ Let's create, innovate, and make the digital world a more exciting place togethe
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarverma2602&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+
+
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sagarverma2602&style=plastic&label=Profile+Views&color=blueviolet)
