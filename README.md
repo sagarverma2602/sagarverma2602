@@ -88,7 +88,7 @@ Let's create, innovate, and make the digital world a more exciting place togethe
 
 
 
-
+![Snake animation](https://github.com/eagrundy/sagarverma2602/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sagarverma2602&style=plastic&label=Profile+Views&color=blueviolet)
