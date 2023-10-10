@@ -94,9 +94,6 @@ Let's create, innovate, and make the digital world a more exciting place togethe
  
 </div>
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=sagarverma2602&style=plastic&label=Profile+Views&color=blueviolet)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
