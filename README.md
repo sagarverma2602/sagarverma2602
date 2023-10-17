@@ -1,5 +1,3 @@
-
-
 # 👋 About Me
 
 Hey there! I'm Sagar Verma, a passionate problem solver with a love for all things tech and a penchant for creative design. I thrive on tackling complex challenges and turning ideas into reality.
@@ -91,7 +89,8 @@ Let's create, innovate, and make the digital world a more exciting place togethe
 
 <div> 
  
-  ![Snake animation](https://github.com/sagarverma2602/sagarverma2602/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
 
