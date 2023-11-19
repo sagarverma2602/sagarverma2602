@@ -1,6 +1,5 @@
 # 👋 About Me
 
-
 Hey there! I'm Sagar Verma, a passionate problem solver with a love for all things tech and a penchant for creative design. I thrive on tackling complex challenges and turning ideas into reality.
 
 
